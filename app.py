@@ -74,4 +74,4 @@ if submit:
 
 # Footer
 st.write("---")
-st.caption("Developed by [Your Name]")
+st.caption("Developed by [Harsh Wasnik]")
