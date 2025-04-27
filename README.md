@@ -50,8 +50,8 @@ Real-time Results shown beautifully in Streamlit UI.
 📫 Contact
 Made with ❤️ by Harsh Wasnik
 
-LinkedIn: [\[Your LinkedIn Profile\]](https://www.linkedin.com/in/harsh-wasnik/)
+LinkedIn: [\[Harsh Wasnik\]](https://www.linkedin.com/in/harsh-wasnik/)
 
 Email: [wasnikh0@gmail.com]
 
-Portfolio: [[Your Portfolio Link](https://www.datascienceportfol.io/wasnikh0)]
+Portfolio: [[Portfolio](https://www.datascienceportfol.io/wasnikh0)]
