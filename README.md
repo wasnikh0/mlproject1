@@ -1,5 +1,7 @@
 📚 Student Performance Prediction App
-Welcome to the Student Performance Prediction project!
+
+Welcome to the [\[App\]](https://student-performance-ml.streamlit.app/)
+
 This application predicts a student's Math Score, Reading Score, Writing Score, and the Total Score based on their demographic and academic attributes.
 
 ✅ Powered by Machine Learning
